@@ -1,8 +1,12 @@
 # MyDB Task 02 - Level 01 - Youtube
 
-## Database Schema Overview
+📍 **Description:**  
 
 This project defines a relational database schema for managing a video-sharing platform. The schema includes entities for users, videos, channels, categories, comments, likes, and subscriptions.
+
+---
+![Alt Text](Task_02_level_01.png)
+---
 
 ## Tables and Relationships
 
